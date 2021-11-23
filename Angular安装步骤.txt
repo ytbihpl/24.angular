@@ -1,0 +1,12 @@
+1.安装脚手架工具
+	npm install @angular/cli -g
+2.查看脚手架版本
+	ng --version
+3.初始化angular项目
+	ng new angular-demo
+4.启动开发模式
+	npm run start
+5.创建组件
+	ng generate component foo
+6.创建路由
+	ng generate module app-routing --flat --module=app
